@@ -1,5 +1,7 @@
 # Knowledge Graph Visualization Frontend
 
+GitHub Repo: https://github.com/alif338/neo4j-openai-FE
+
 ## Overview
 This frontend application is designed to visualize knowledge graphs and utilize a language model for prediction, with Neo4j as the underlying database and Sigma.js as Graph Visualization
 

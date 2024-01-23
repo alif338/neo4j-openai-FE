@@ -22,6 +22,9 @@ This frontend application is designed to visualize knowledge graphs and utilize 
 2. Copy this file and rename it `.env`. Set value `VITE_BACKEND_URL` with the appropriate backend URL
 
 ## Visualization
+<img src="public/ss0.png" alt="screenshot0"/>
+<img src="public/ss1.png" alt="screenshot1"/>
+<img src="public/ss2.png" alt="screenshot2"/>
 
 ## Running the Application
 ```bash

@@ -110,7 +110,7 @@ function App() {
           <div className="border-t-2 border-t-gray-400 pt-3 w-full"></div>
           <div className="overflow-y-auto w-full p-4 flex flex-col gap-4">
             {texts.map((item, idx) => {
-              return <Card idx={texts.length - idx} content={item} />;
+              return <Card idx={idx + 1} content={item} />;
             })}
           </div>
         </div>
